@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Companion code for the paper."
+type: software
+title: "Quartic weight-enumerator calculations"
+authors:
+  - family-names: "Zhuang"
+    given-names: "Xu"
+repository-code: "https://github.com/zxmath/quartic-weight-enumerator-calculations"
+url: "https://github.com/zxmath/quartic-weight-enumerator-calculations"
+abstract: "SageMath calculations for the counting formulas and weight enumerator of plane quartic curves."
+keywords:
+  - "SageMath"
+  - "finite fields"
+  - "plane quartic curves"
+  - "weight enumerators"
